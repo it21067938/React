@@ -59,6 +59,7 @@ const Contact = () => {
       toast.dismiss("loading");
     }
   }, [isSending]);
+  
 
   return (
     <>
